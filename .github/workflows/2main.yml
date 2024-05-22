@@ -6,6 +6,6 @@ jobs:
     steps:
       - name: Print greeting
         run: echo "Hello Wheezy!"
-      -name: Print goodbye
+      - name: Print goodbye
         run: echo "Done-zo, son. Peace out!"
       
